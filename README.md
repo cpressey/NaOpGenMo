@@ -10,7 +10,7 @@ The Goal
 
 Spend the month of November* writing code that generates an opera which is 2.5+ hours long.
 
-_*Yes, I realize that November is half over.  In 2014 at least, NaOpGenMo will only be half a "Mo"._
+_*Yes, I realize that November is half over.  In 2014 at least, NaOpGenMo will only be half a "Mo".  (But if you're on a roll and you think you really need "just a week or two more, please please please" to perfect your generator, well, far be it from me to outright disqualify you.)_
 
 The Rules
 ---------
@@ -23,7 +23,7 @@ The "opera" is defined however you want.  It could be 50,000 beats of middle C p
 
 _Please try to respect copyright,_ especially in light of [the economics of Girl Talk](http://blog.priceonomics.com/post/47719281228/the-economics-of-girl-talk).  (tl;dr here be dragons.  Best to stick to source material that explicitly says "yes, you can re-use this", and credit it.)
 
-This activity officially started on Nov 14th/15th 2014 (the exact time is kind of fuzzy) and ends at 12:01am GMT Dec 1st 2014.
+This activity officially started on Nov 14th/15th 2014 (the exact time is kind of fuzzy) and officially ends at 12:01am GMT Dec 1st 2014.  Given the constrained "month" being used, entries which are a bit late may still be accepted.  (But they better be good!  Whatever that means exactly.)  (And if some future NaOpGenMo manages to start on time, don't expect this kind of leniency to carry over.)
 
 How to Participate
 ------------------
