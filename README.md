@@ -5,6 +5,8 @@ National Opera Generation Month, based on an idea that -- look, don't ask, you d
 
 The structure is very similar to NaNoGenMo, and therefore the following text is too, with apologies to @dariusk.
 
+*This is the 2014 edition.  For the 2015 edition, see [NaOpGenMo-2015](https://github.com/cpressey/NaOpGenMo-2015).*
+
 The Goal
 --------
 
